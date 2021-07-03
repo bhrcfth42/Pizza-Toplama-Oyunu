@@ -13,7 +13,6 @@ Ayrıca ihtiyaç dâhilinde ilgili veri yapılarını da kullanabilirsiniz.
 ![Pizza Toplama Oyunu_Sayfa_3](https://user-images.githubusercontent.com/50529546/124367840-7ce22300-dc63-11eb-9b46-91b07d1f9cbf.jpg)
 ![Pizza Toplama Oyunu_Sayfa_4](https://user-images.githubusercontent.com/50529546/124367841-7eabe680-dc63-11eb-9336-a8bd113cbc7f.jpg)
 ![Pizza Toplama Oyunu_Sayfa_5](https://user-images.githubusercontent.com/50529546/124367842-7f447d00-dc63-11eb-953d-82db05f7cd70.jpg)
-![Pizza Toplama Oyunu_Sayfa_6](https://user-images.githubusercontent.com/50529546/124367843-7fdd1380-dc63-11eb-84ca-decd38f84a50.jpg)
 
 # İçerik PDF Dosyası
 [Pizza-Toplama-Oyunu.pdf](https://github.com/bhrcfth42/Pizza-Toplama-Oyunu/files/6759087/2020.guz.Algoritma.Tasarimi.ve.Analizi.Odev2.pdf)
